@@ -1,0 +1,57 @@
+
+*{
+
+font-family:Helvetica;
+text-align:center;
+
+}
+
+.headline{
+font-size: 70px;
+font-weight: bold;
+
+}
+
+.header{
+  font-size: 18px;
+  color:white;
+  background-image: url("./resources/images/building.jpg");
+  background-size:cover;
+  background-position: center;
+}
+
+#process{
+
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p{
+
+  font-size:23px;
+  font-weight:bold;
+}
+
+#smaller{
+
+font-size:14px;
+font-weight:lighter;
+}
+
+#design{
+
+  font-size:23px;
+  font-weight:bold;
+  color:white;
+  background-image:url("/Users/jessiefascal/Documents/projects/broadway/resources/images/building.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.footer{
+
+  font-size: 11px;
+  color:white;
+  background-color:dimgray;
+  text-align:left;
+}
